@@ -19,3 +19,4 @@ item numbers hence why said numbers were not replaced, but based on the loop it 
    instead of limiting this to 100
 3. UI/UX to be upgraded in line with business specifications
 4. colour gradients to represent pass/fail states and types of errors, better visualisation
+5. refresh/remove/redisplay results of function, relatable to above if new parameters are passed in 
